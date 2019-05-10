@@ -1,0 +1,51 @@
+html,
+body,
+#root {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.z_wrap {
+  width: 100%;
+  height: 100%;
+  background: #eee;
+}
+
+.z_wrap header {
+  background: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.z_wrap header p {
+  display: inline;
+}
+
+.z_wrap header p i {
+  display: inline-block;
+  width: 33px;
+  height: 33px;
+  position: relative;
+  top: 0px;
+  right: 6px;
+}
+
+.z_wrap header p i img {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+
+.z_wrap aside {
+  background: #fff;
+}
+
+.z_wrap section {
+  width: 100%;
+  height: 100%;
+  display: flex !important;
+  justify-content: space-between;
+}

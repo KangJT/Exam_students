@@ -1,0 +1,26 @@
+.wy_usertitle{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.wy_container{
+    padding: 10px 15px;
+}
+
+.syh-classInfo{
+
+    font-size: 14px!important;
+}
+
+.wy_usertitlebox{
+    margin: 10px;
+}
+
+.wy_adduser{
+    width: 13%;
+    height: 30px;
+    background: #2F5DFF;
+    color:white;
+    border:0;
+    float: right;
+}

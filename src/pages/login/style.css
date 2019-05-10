@@ -1,0 +1,98 @@
+
+.wy_login {
+  width: 100%;
+  height: 100%;
+  background: url("./img/login.png");
+  background-size:100% 100%;
+  position: relative;
+}
+
+.wy_loginbox {
+  width: 27%;
+  height: 246px;
+  background: white;
+  border-radius: 5px;
+  position: absolute;
+  top:106px;
+  right:120px;
+}
+
+.wy_title{
+    width: 100%;
+    height: 50px;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing:23;
+    text-align: center;
+    line-height: 50px;
+}
+
+.wy_username{
+    width: 83%;
+    height: 12%;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid #CCCDD4;
+    display: flex;
+    align-items: center;
+    margin: 15px auto;
+}
+
+.wy_username input{
+    border:0;
+    margin-left: 3px;
+    font-size: 13px;
+    width: 75%;
+    outline: 0;
+}
+
+.wy_password{
+    width: 83%;
+    height: 12%;
+    padding: 5px;
+    border-radius: 5px;
+    border:1px solid #CCCDD4;
+    margin: 15px auto;
+    display: flex;
+    align-items: center;
+}
+
+.wy_password input{
+    border:0;
+    width: 75%;
+    margin-left: 3px;
+    font-size: 13px;
+    outline: 0;
+}
+
+.wy_tologin{
+    width: 83%;
+    height: 32px;
+    background: #3081FE;
+    border-radius: 5px;
+    margin: 5px auto;
+    margin-left: 9%;
+    color: white;
+    font-size: 12px;
+    border:0;
+}
+
+.wy_toregister{
+    width: 82%;
+    height: 33px;
+    border-radius: 5px;
+    background: white;
+    margin: 5px auto;
+    font-size: 12px;
+    color: #3081FE;
+    margin-left: 9%;
+    border:0;
+}
+
+.wy_usernamecode{
+  margin-bottom: 0!important;
+}
+
+.wy_passwordcode{
+  margin-bottom: 0!important;
+}

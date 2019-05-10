@@ -1,0 +1,22 @@
+.syh-detail{
+    width: 100%;
+    display: flex;
+    background: #F0F2F5;
+    padding:20px;
+    box-sizing: border-box;
+
+}
+.syh-eachItem{
+    background: #fff;
+    border-radius: 10px;
+    padding:20px;
+    box-sizing: border-box;
+}
+.syh-detailFlexLeft{
+    width: 60%;
+    box-sizing: border-box;
+    margin-right: 20px;
+}
+.syh-detailFlexRight{
+    flex: 1;
+}

@@ -1,0 +1,45 @@
+.wy_exambox{
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+}
+
+.wy_examtitle{
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.wy_choose{
+    width: 100%;
+    height: 40px;
+    background: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    line-height: 40px;
+}
+
+.wy_choose p{
+    margin-bottom:0!important;
+}
+
+.wy_outerline{
+    width: 120px;
+    height: 10px;
+    border-radius: 5px;
+    border:1px solid #ccc;
+    background: #eee;
+    margin-bottom:0!important;
+}
+
+.wy_intoerline{
+    height: 100%;
+    border-radius: 5px;
+    margin-bottom:0!important;
+}
+
+.wy_examtable{
+    width: 100%;
+    margin-top:20px;
+    background: white;
+}

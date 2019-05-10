@@ -1,0 +1,26 @@
+.z_testdetail {
+  width: 100%;
+  height: 100%;
+  .main {
+    display: flex;
+    justify-content: space-between;
+    .m_left {
+      width: 65%;
+      background: #fff;
+      border-radius: 5px;
+      padding: 5px;
+      margin-right: 6px;
+      .item {
+        > div {
+          background: #f7f9fa;
+        }
+      }
+    }
+    .m_right {
+      flex: 1;
+      background: #fff;
+      border-radius: 5px;
+      padding: 5px;
+    }
+  }
+}

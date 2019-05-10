@@ -1,0 +1,28 @@
+.z_wrap {
+  .img {
+    width: 100%;
+    background: #fff;
+    padding: 20px;
+    img {
+      width: 100%;
+    }
+  }
+  .con {
+    ul {
+      display: flex;
+      justify-content: space-around;
+      flex-wrap: wrap;
+      li {
+        list-style: none;
+        width: 60px;
+        height: 60px;
+        background: #ccc;
+        border-radius: 10px;
+        margin-right: 20px;
+        margin-bottom: 10px;
+        text-align: center;
+        line-height: 60px;
+      }
+    }
+  }
+}

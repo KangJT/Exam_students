@@ -1,0 +1,22 @@
+.syh-userName{
+    margin-top:18px;
+    display: inline-block;
+}
+.syh-userContent{
+    padding-top: 20px;
+}
+.syh-flex{
+    display: flex;
+    align-items: center;
+    height: 44px;
+    line-height: 44px;
+}
+.syh-selectContent{
+    flex: 1;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+.syh-likeTitle{
+    margin-right: 20px;
+}

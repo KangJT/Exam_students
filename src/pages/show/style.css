@@ -1,0 +1,27 @@
+.wy_shownav{
+    width: 100%;
+    padding:18px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.wy_shownavs {
+    margin-top:10px;
+}
+
+.wy_shownavs li{
+    margin: 0!important;
+    background: rgb(77, 68, 68);
+    color: white;
+    font-size: 14px!important;
+    padding: 5px 10px;
+}
+
+.show_action{
+    background: #ccc!important;
+    color: black!important;
+}
+
+.ant-pagination-item-ellipsis{
+    height:30px!important;
+}
